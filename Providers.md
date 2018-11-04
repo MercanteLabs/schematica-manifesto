@@ -28,9 +28,9 @@ relevant in the long-term are:
   Opportunities can present themselves in various forms, and so architectures
   that place an emphasis on openness and interoperability (this includes
   integrations with third-party solutions as well as between internal systems)
-  will not only provide a competitive edge from earlier incorporation of such
-  innovations, but are also more resilient and better equipped to respond to
-  both expected and unexpected change.
+  are not only quicker to leverage such innovations, but are also more
+  resilient and better equipped to respond to both expected and unexpected
+  change.
 
 - _Building a sustainable workforce._
 
