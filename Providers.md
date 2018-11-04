@@ -67,11 +67,13 @@ platform.
 
 Technology is actually less of a key differentiator. After all, retailers are
 more interested in the capabilities of the platform, rather than the minutiae
-of what technology choices are being made under the hood.
+of what technology choices are being made, or how the platform is being managed
+under the hood.
 
 Absorbing the risks of implementation is simply part of an ecommerce platform's
 offering. So, when a platform provider finds that the maintenance overhead of
 their self-managed technology solution is becoming a problem, or at least is no
 longer providing a competitive edge, then the solution has become a liability
 and they should consider ways to mitigate its impact, potentially by delegating
-the lower value / under-performing aspects of it.
+the lower value aspects of it - especially if there are better performing
+alternatives readily available.
